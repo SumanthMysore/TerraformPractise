@@ -1,0 +1,2 @@
+3.12.123.141
+EC2 Instance destroyed
